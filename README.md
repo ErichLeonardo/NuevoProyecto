@@ -1,3 +1,0 @@
-# NuevoProyecto
-
-Erich es tonto
